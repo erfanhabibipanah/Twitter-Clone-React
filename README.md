@@ -2,4 +2,4 @@
 
 Twitter Clone using React.
 
-Live Preview : https://www.twitter-clone.erfanhabibipanah.vercel.app/
+Live Preview : https://twitter-clone.erfanhabibipanah.vercel.app/
